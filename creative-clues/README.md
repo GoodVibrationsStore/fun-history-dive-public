@@ -11,7 +11,7 @@ a question to investigate, not an established conclusion.
 - [Charmed: Gods, Power, and a Family Line](./categories/charmed-gods-and-lineage.md):
   a fictional and mythic pattern to explore.
 - [Clue template](./templates/clue.md): record a new observation or question.
-- [Songs](./songs/): a separate place for creative songwriting.
+- [Songs](../Unrelated%20to%20%22case%22/songs/): a separate place for creative songwriting.
 - [Archive](./archive/): keep older leads without losing the trail.
 - [Gnostic Theology Archive](../gnostic-theology/): a related collection of
   interpretations and sources to investigate, not independently verified evidence.

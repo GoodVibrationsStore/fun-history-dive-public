@@ -27,6 +27,35 @@ can identify so far.
 
 ## Claims requiring stronger evidence
 
+### Two distinct family trees
+
+One [Orthodox devotional account](https://orthodoxwiki.org/Joachim_and_Anna)
+gives Matthan three daughters: Mary, Zoia, and Anna. It describes Mary as
+Salome's mother, Zoia as Elizabeth's mother, and Anna as the mother of Jesus's
+mother Mary. The shared chat calls the middle sister Sobe and the older Mary
+the eldest. A [secondary summary of Sobe](https://en.wikipedia.org/wiki/Sobe_(sister_of_Saint_Anne))
+quotes a version with that order, attributed there to later Byzantine writers
+Nicephorus Callistus and Andronicus. The Greek primary text and its
+transmission still need checking before identifying the earliest version.
+These accounts are evidence of a tradition, not by themselves proof of a
+first-century pedigree.
+
+In the separate [medieval Holy Kinship account](https://college.holycross.edu/projects/kempe/devotion/holy_kin/holykin.html),
+Anne instead has three daughters named Mary, including Mary Salome, the
+mother of James and John. It calls Anne's sister Hismeria, Elizabeth's mother.
+These versions place Salome in different generations and cannot simply be
+merged into one established tree.
+
+Mark names [James and John, sons of Zebedee, “Sons of Thunder”](https://www.biblegateway.com/passage/?search=Mark%203%3A17&version=NRSVUE).
+[Mark 15:40](https://www.biblegateway.com/passage/?search=Mark%2015%3A40&version=NRSVUE)
+names a Salome among the women at the crucifixion;
+[Matthew 27:56](https://www.biblegateway.com/passage/?search=Matthew%2027%3A56&version=NRSVUE)
+names the mother of Zebedee's sons in a similar scene. Identifying them as
+the same woman is an inference or later tradition, not a relationship either
+verse explicitly states. The Salome in the *Protevangelium* is also not
+explicitly identified with either woman. John son of Zebedee is not John
+the Baptist.
+
 - The chat first treated Elizabeth as Anne's daughter, then offered other
   family trees. Luke does not say Elizabeth is Anne's daughter or name Anne.
 - It asserted that a woman called the older Mary was displaced by Anne, and

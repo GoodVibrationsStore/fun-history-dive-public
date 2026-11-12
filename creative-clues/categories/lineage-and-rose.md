@@ -21,8 +21,10 @@ deliberate alteration nor a complete biological pedigree follows from them.
 
 ## The rose: keep meanings separate
 
-The earlier conversation's intended meaning is not visible yet. Possible
-avenues to distinguish, not assumptions about that discussion:
+In the earlier conversation, the rose line appears in a creative story about
+a hidden heir and an awakening. The conversation also connects that imagery
+to possible family-history claims. These meanings should not be conflated
+with other uses of the phrase:
 
 1. **A symbolic or imagined maternal line:** a creative or spiritual motif;
    investigate its meaning separately from a documented family tree.
@@ -39,6 +41,5 @@ describes the surviving text and notes its use in popular culture. Its
 portrayal of Mary as an important disciple is not evidence that she and Jesus
 were married or had children.
 
-**Next steps:** Review the earlier rose-line conversation. For each proposed
-link, name the source, date, and relationship it actually asserts; check for
-gaps and alternative explanations.
+**Next steps:** For each proposed historical link, name the source, date, and
+relationship it actually asserts; check for gaps and alternative explanations.

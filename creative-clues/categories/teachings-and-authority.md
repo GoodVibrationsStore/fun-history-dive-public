@@ -45,6 +45,21 @@ traditions and John's historical followers remains a research question.
 Consult a scholarly edition of the *Mandaean Book of John* and examine its
 dating and manuscript history before comparing individual passages.
 
+## Sophia, Barbelo, and the creator
+
+In the *Apocryphon of John*, Barbelo is the first thought of the transcendent
+spirit; Sophia (Wisdom) produces Ialdabaoth, a lesser creator. See Michael
+Williams's [discussion of the text](https://www.britannica.com/topic/gnosticism/Apocryphon-of-John).
+Three copies are in the Nag Hammadi collection and another is in the Berlin
+Codex. This is one ancient mythic interpretation of creation, not a single
+doctrine shared by every group now called Gnostic or Hermetic.
+
+The work presents itself as a revelation to John. That literary claim is not
+independent proof of its apostolic authorship, an original teaching of Jesus,
+or the historical overthrow of a divine ruler. The chat's Rebis-versus-archons
+scenario combines traditions; it should be read as an imaginative synthesis
+unless a source for the specific connection is identified.
+
 **Next steps:** Read the passages in context, note what each writer claims,
 and compare scholarly arguments about dating and authority. Seek alternative
 explanations alongside any theory of suppression.

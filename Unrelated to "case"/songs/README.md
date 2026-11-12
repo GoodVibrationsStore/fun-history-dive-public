@@ -12,6 +12,6 @@ historical case files.
   gratitude after betrayal, and film and game-inspired storytelling.
 
 The shared conversation is much larger than the portion reviewed so far.
-Lyrics have not yet been copied here; this is a public repository and some
-material may contain personal details. Keep original writing separate from
-existing songs or lyrics, and check before adding potentially private text.
+Lyrics are being kept outside this public repository at the user's request.
+The conversation contains many drafts; they have not all been reviewed or
+copied. Keep original writing separate from existing songs or lyrics.
