@@ -12,6 +12,8 @@ for centuries.
 | [Levantine and Israelite](./levantine-israelite/starting-points.md) | El, Athirat, YHWH, Wisdom, divine council | Ugaritic and biblical texts, disputed inscriptions |
 | [Greek and Olympian](./greek-olympian/starting-points.md) | Gaia, Cronus, Zeus, succession, sisters and stars | Hesiod's account and [planetary weekday comparisons](./greek-olympian/planets-weekdays-and-archons.md) |
 | [Early Christian](./early-christian/starting-points.md) | Mary, Elizabeth, John, Monad, Barbelo, Sophia | Gospel narratives and [Norea's protected-root motif](./early-christian/sophia-eleleth-and-hidden-line.md) |
+| [Hindu traditions](./hindu/starting-points.md) | Brahman, Brahma, Vishnu's avatars, yugas, grahas | Diverse philosophical and devotional traditions, not one universal pairing |
+| [Buddhist traditions](./buddhist/starting-points.md) | Brahma Sahampati, bodhisattvas, Tara, lotus | A Buddhist discourse and distinct living traditions |
 | [Medieval and later](./medieval-and-later/starting-points.md) | Rebis, the rose, Emerentia and Emorun | Alchemical images and later family legends |
 
 ## What “tracing the line” can mean
@@ -32,6 +34,8 @@ gives separate candidate trees and explains where the documented links stop.
 The [light/dark and Rebis grid](../light-dark-rebis/pairings-and-maternal-source.md)
 compares proposed divine pairings without presenting them as proven names
 for the same beings.
+The [repeating stories and resets comparison](../categories/repeating-stories-and-resets.md)
+examines examples across traditions without forcing them into one cycle.
 
 ## A working timeline of evidence—not the age of gods
 

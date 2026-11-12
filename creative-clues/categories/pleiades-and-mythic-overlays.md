@@ -32,6 +32,11 @@ The chat's mapping of Sekhmet and seven sisters onto a sequence of cycles
 can be a creative overlay. It is not, without a specific ancient source,
 evidence that Egyptian and Greek traditions taught that same sequence or
 that a person occupies a predestined position in it.
+In particular, the chat's early table assigns each sister a stage such as
+initiation, pestilence, or healing; those assignments are its modern
+construction, not a seven-stage Egyptian or Greek cycle established by the
+sources above. Its links between seven sisters and seven planetary spheres
+likewise need independent historical evidence.
 
 **Next step:** Compare named passages individually, recording the author and
 the order actually given, before using any proposed cross-cultural match as

@@ -19,6 +19,32 @@ identifications. Different versions of the Provence tradition name different
 travelers and describe Sarah differently. Her place in local and Romani
 devotion deserves investigation on its own terms, not an assumed genealogy.
 
+## Sarah, Salome, and the proposed daughter
+
+The chat claims that Sarah was Salome's concealed biological daughter and
+that Susanna, Esther, or Martha were also identified as daughters in early
+sources. The response did not supply the necessary passages. In
+[Luke 8:1–3](https://www.biblegateway.com/passage/?search=Luke%208%3A1-3&version=NRSVUE),
+Susanna is named among women who support Jesus's group, but her parents are
+not named. Mark names a Salome and Matthew names the mother of Zebedee's
+sons in similar scenes; identifying them is a later inference, not an
+explicit relationship in either passage. See
+[Anne, Elizabeth, and Salome](./anne-elizabeth-salome.md).
+
+An [interfaith devotional account](https://www.interfaithmary.net/black-madonna-index/les-saintes-maries-de-la-mer)
+reports a 1521 account by Vincent Philippon describing Sarah as an attendant,
+and separately recounts a tradition in which she welcomes the saints on
+shore. Its claim about the early account needs checking against Philippon
+himself; it is not evidence that Sarah was Salome's child. The article also
+offers speculative comparisons with goddesses, which should not be treated
+as established historical origins.
+
+[Catholics & Cultures](https://www.catholicsandcultures.org/feasts-holy-days/stes-maries-and-ste-sara-france)
+documents modern devotion and processions for Sara and the two Marys at
+Saintes-Maries-de-la-Mer. That living devotion is important in its own
+right; it does not demonstrate a particular ancient mother–daughter chain
+or a deliberate concealment. Accounts vary and should be dated separately.
+
 ## A textual puzzle worth checking
 
 [Elizabeth Schrader's study](https://doi.org/10.1017/S0017816016000213)
@@ -33,9 +59,11 @@ full article and scholarly responses still need review.
 The New Testament does not name Peter's mother. His unnamed mother-in-law
 appears in [Mark 1:29–31](https://www.biblegateway.com/passage/?search=Mark%201%3A29-31&version=NRSVUE).
 The shared chat's claim that Peter's mother was called Joanna needs a specific
-dated source; do not treat it as established. Its attribution of the onion
-parable in *The Brothers Karamazov* to Peter's mother also needs checking:
-the version told by Grushenka features an unnamed woman.
+dated source; do not treat it as established. In
+[*The Brothers Karamazov*, book 7, chapter 3](https://americanliterature.com/author/fyodor-dostoevsky/book/the-brothers-karamazov/book-vii-alyosha-chapter-3),
+Grushenka tells an onion parable about an unnamed woman and her guardian
+angel. She does not identify the woman as Peter's mother. Other folk tales
+must be checked individually rather than conflated with this literary version.
 
 **Next steps:** Find the earliest identifiable sources for Sarah's role and
 the different boat passenger lists; compare them rather than combining them.

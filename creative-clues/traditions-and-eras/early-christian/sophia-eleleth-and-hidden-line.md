@@ -38,6 +38,37 @@ calls Sophia Life, “mother of the living”; its language is not a license to
 merge every figure named Life across texts. Compare the passages directly
 before importing Zoe's specific role from *Hypostasis*.
 
+## The chat's Sophia–Christ “inversion”
+
+The chat asks whether Sophia was inside Adamas while Christ or Logos came
+down through Anne and Mary, then presents that reconstruction as a hidden
+ancient teaching. In Wisse's *Apocryphon* translation, the sequence is more
+specific:
+
+1. The heavenly perfect human **Pigera-Adamas** appears alongside the
+   divine Autogenes, Christ. Later the rulers fashion an earthly Adam after
+   a revealed image; these are distinct narrative stages.
+2. Sophia asks the Mother-Father to recover her power. Five lights advise
+   Yaldabaoth, who unknowingly breathes that power into the fashioned human.
+   The Mother-Father then sends luminous Epinoia as a helper, hidden in Adam.
+3. Sophia receives help in this version. The text does not describe a
+   secret mtDNA route through Anne and Mary or identify that line as a
+   Christ–Sophia marriage.
+
+The names and pairs also change by work. In Irenaeus's hostile report of
+one Valentinian account, [*Against Heresies* 1.1–2](https://www.newadvent.org/fathers/0103101.htm),
+Sophia is paired with Theletos, Logos with Zoe, and Christ with the Holy
+Spirit. That is not a universal Christ–Sophia pairing; do not insert those
+names into the *Apocryphon*.
+
+The chat also invokes the *Gospel according to the Hebrews*. A
+[fragment quoted by Origen](https://earlychristianwritings.com/text/gospelhebrews-mrjames.html)
+has the Savior call the Holy Spirit his mother. It survives through later
+quotations, and scholars dispute how to sort several Jewish-Christian gospel
+fragments. This is a real maternal image, not evidence that the Spirit was
+Anne, Mary, or a hidden genetic lineage. Compare interpretations and dates
+without assuming the quotation records the historical Jesus's own words.
+
 ## A separate incarnation motif
 
 [Irenaeus, *Against Heresies* 1.23.2](https://www.newadvent.org/fathers/0103123.htm)

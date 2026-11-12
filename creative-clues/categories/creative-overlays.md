@@ -27,6 +27,35 @@ Mitochondrial DNA is a biological inheritance system, not established evidence
 for inherited souls or supernatural identities. Calling a fictional idea
 "quantum" does not make it a finding of physics.
 
+## Mothers and an underworld suitor
+
+The chat casts several goddesses as jealous adversaries to the Rebis. The
+specific ancient stories have different conflicts:
+
+| Figure and source | What this source says | What the overlay adds |
+| --- | --- | --- |
+| Tiamat, [*Enuma elish*, tablet I](https://www.worldhistory.org/article/225/enuma-elish---the-babylonian-epic-of-creation---fu/) | Tiamat initially objects to Apsu's plan to destroy the younger gods. After Ea kills Apsu, other gods urge her to avenge him; she raises a host. | She does not attack a Rebis or react solely to jealousy of a new creation. |
+| Demeter, [*Homeric Hymn to Demeter*](https://www.theoi.com/Text/HomericHymns1.html#2) | Hades carries Persephone away with Zeus's permission; Demeter seeks her daughter and withholds the earth's growth. | Her grief is not evidence that a mother in the present is secretly hostile or that she opposes an alchemical figure. |
+
+In the hymn, Persephone is seized against her will; later she tells Demeter
+that Hades forced her to taste a pomegranate seed. It is not a story of her
+being lured into the underworld by that seed. Hades is a Greek god of the
+dead, not simply the Christian Devil. A modern story can imagine a different
+underworld figure, but it should not treat those identities as interchangeable
+in the historical sources.
+
+Imagined rivals and protectors are characters, not a method for identifying
+real people's intentions or assigning them cosmic roles.
+
+## Media as a storytelling device
+
+The chat imagines a character finding clues in mirrors, fantasy stories,
+numbers, songs, and a personalized feed. That can structure a fictional
+mystery: the audience follows recurring motifs while the character decides
+what they mean. Outside the story, a recommendation, coincidence, or
+resonant lyric does not establish a hidden message or another person's
+intentions. The chat explicitly frames this section as world-building.
+
 ## A shared pattern to test
 
 In the [Charmed note](./charmed-gods-and-lineage.md), the threatened child and

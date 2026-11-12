@@ -34,6 +34,26 @@ divine-council imagery do not show that the Ugaritic gods were renamed
 Watchers. Nor do the sources establish the chat's claims about beings
 harvesting human emotional energy.
 
+## The one-third and the Watchers: separate passages
+
+Another chat passage combines the Monad, a war in heaven, one-third of
+heaven, the Watchers, and the origins of other cultures' gods. Each part
+needs its own source:
+
+| Passage | What it says | What it does not say |
+| --- | --- | --- |
+| [Genesis 6:1–4](https://www.biblegateway.com/passage/?search=Genesis%206%3A1-4&version=NRSVUE) | Sons of God take human wives; the passage mentions the Nephilim and ancient heroes. | It does not specify a third of heaven, name Watcher leaders, or identify the Nephilim with every other culture's gods. |
+| [1 Enoch 6](https://sacred-texts.com/book/the-book-of-enoch/chapter-vi) | In this translation, 200 angels bind themselves by an oath and descend on Mount Hermon; Semjaza is named as their leader. The wider account develops their consequences. | It does not describe that number as a third of all angels or equate them with the Anunnaki. |
+| [Revelation 12:3–9](https://www.biblegateway.com/passage/?search=Revelation%2012%3A3-9&version=NRSVUE) | A dragon sweeps a third of the **stars** to earth; a heavenly war follows and the dragon and his angels are cast down. | The passage does not explicitly say that one-third of all angels fell or identify them as the Watchers of 1 Enoch. Interpreting the stars as angels is a further interpretive step. |
+| [Anunna / Anunnaki](https://oracc.museum.upenn.edu/amgg/listofdeities/anunna/index.html) | The term refers to groups of Mesopotamian gods; its membership and functions vary across sources. | It is not a synonym in those texts for Genesis's Nephilim or Enoch's Watchers. |
+
+This makes a workable creative crossover, but combining the passages is not
+the same as finding a single ancient text that equates them. The
+[*Apocryphon of John* pairing grid](../light-dark-rebis/pairings-and-maternal-source.md)
+also keeps its Invisible Spirit distinct from the chief ruler in that
+particular narrative; the chat's automatic equation of Monad and YHWH
+requires an argument rather than a name match.
+
 ## What came after Jubilees?
 
 There was no single required next book. Related Jewish works have overlapping

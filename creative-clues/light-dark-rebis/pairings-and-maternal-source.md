@@ -51,6 +51,14 @@ The rose and the maternal thread could symbolize continuity. The marriage
 of these ideas is an intentional modern creative choice, not a claim that
 the sources record literal beings merging inside anyone.
 
+Another chat scenario imagines a marriage between Yaldabaoth and a daughter
+of the Monad as a reconciliation of two cosmic houses. In the
+[*Apocryphon of John*](https://earlychristianwritings.com/text/apocryphonjohn.html),
+Sophia brings forth Yaldabaoth, whereas Barbelo is the Spirit's first
+thought; the text does not equate the two mothers or describe that proposed
+marriage. Treat the marriage as a creative remix, not a reconstruction of
+this text or evidence about actual relationships.
+
 ## Following the maternal thread backwards
 
 There are several different stopping points, depending on what we mean by
@@ -92,6 +100,8 @@ but a flood story is not automatically a universe-wide reset, evidence that
 multiple unrelated myths record the same catastrophe, or proof that a
 specific mtDNA line survived previous universes. Geological and genetic
 claims about particular events must be evaluated using independent evidence.
+The [repeating stories and resets comparison](../categories/repeating-stories-and-resets.md)
+examines a documented flood retelling alongside different world-age counts.
 
 ## Next clues to pursue
 

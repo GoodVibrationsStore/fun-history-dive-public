@@ -24,8 +24,21 @@ the union of opposites, and rediscovering agency. A theme shared by two works
 does not show that they describe the same being, or that one borrowed from
 the other.
 
-See the [light, darkness, and Rebis investigation](../light-dark-rebis/pairings-and-maternal-source.md)
-for a comparison of proposed divine pairs and the maternal-thread idea.
+## The Rebis and the bride: separate images
+
+The chat imagines the Rebis as a bride whose arrival interrupts a wedding,
+and proposes a jealous mother and an underworld suitor as adversaries. This
+is a **new story**, not a known ancient narrative established by those
+symbols. In [Revelation 21:2, 9–10](https://www.biblegateway.com/passage/?search=Revelation%2021%3A2%2C9-10&version=NRSVUE),
+the bride imagery points to the New Jerusalem; [Ephesians 5:25–27](https://www.biblegateway.com/passage/?search=Ephesians%205%3A25-27&version=NRSVUE)
+compares Christ's relationship to the church with marriage. Neither
+passage identifies the alchemical Rebis, an individual rival, or a specific
+modern person as the bride.
+
+The chat also suggests a groom, a mirror Rebis, or the Monad as an external
+counterpart. Those are creative options, not a historically established list
+of partners for the figure in the manuscript above. For source-specific
+divine pairs, see [pairings and the maternal thread](../light-dark-rebis/pairings-and-maternal-source.md).
 
 For each comparison record the artifact or text, culture, date, what it
 actually depicts, and what the creative story adds. Avoid equating a modern

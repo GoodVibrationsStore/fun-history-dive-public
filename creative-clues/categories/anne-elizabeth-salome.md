@@ -81,3 +81,34 @@ status. See [Britannica on mitochondrial inheritance](https://www.britannica.com
 See [Maternal line and Emerentia](./maternal-line-and-emerentia.md) for
 separate trees, an older visionary ancestor, and the limits of mtDNA tracing.
 Do not join the trees until there is evidence for each link.
+
+## Whose conception is being described?
+
+One chat response treats Anne as a fatherless child and blends her with
+Mary's conception and Jesus's conception. These are three separate questions:
+
+| Question | What the source says |
+| --- | --- |
+| Anne's own parentage | The [*Protevangelium of James*, chapters 1–5](https://www.newadvent.org/fathers/0847.htm) names Anne and Joachim as Mary's parents, but does not name Anne's parents or describe Anne as fatherless. Later family trees differ; see [Maternal line and Emerentia](./maternal-line-and-emerentia.md). |
+| Mary's conception | The *Protevangelium* tells of an angel promising a child to the previously childless Anne and Joachim; it does not say Mary had no human father. The Catholic [Catechism, paragraphs 490–491](https://www.vatican.va/archive/ENG0015/__P1K.HTM), defines the Immaculate Conception as Mary's preservation from original sin from her conception. It is not a claim that Anne conceived Mary without a human father. |
+| Jesus's conception | [Luke 1:26–38](https://www.biblegateway.com/passage/?search=Luke%201%3A26-38&version=NRSVUE) describes Mary's conception of Jesus through the Holy Spirit. This is the Gospel's account of Jesus, not the doctrine's name for Mary's own conception. |
+
+These are descriptions of religious texts and beliefs, not evidence that
+any miraculous conception or a particular genetic line can be verified.
+
+## Eliud and Servatius: a separate later genealogy
+
+The chat asks whether Eliud provides a branch from Elizabeth's family into
+Europe. An art historian's description of an approximately 1410–1440
+[Holy Kinship painting](https://www.christianiconography.info/Wikimedia%20Commons/holyKinship.html)
+identifies Hismeria as Elizabeth's mother and depicts a branch
+Hismeria → Eliud → Eminen → Servatius. It relates that genealogy to the
+*Golden Legend* and notes a confusion over identifying the child Servatius
+with the fourth-century bishop. This is evidence of a medieval devotional
+family tree, not evidence of a documented first-century pedigree, descent
+into the Merovingians, or a hidden Grail lineage. The primary genealogy and
+its variants still need direct comparison.
+
+Even *if* that proposed tree were biologically accurate, the links from
+Eliud to his children would not ordinarily transmit his mother's mtDNA:
+maternal mtDNA does not usually pass from a father to his children.

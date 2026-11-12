@@ -49,6 +49,21 @@ succession, or that John was directly Zadokite, went beyond the evidence
 identified there. Luke calls Elizabeth a descendant of Aaron and Zechariah a
 priest, not a member of a documented Zadokite line. Anne is not named in Luke.
 
+## The visitation and the “agreement”
+
+In [Luke 1:39–45](https://www.biblegateway.com/passage/?search=Luke%201%3A39-45&version=NRSVUE),
+the child leaps when Elizabeth hears Mary's greeting, and Elizabeth describes
+the movement as joy. The passage does not say that Elizabeth kneels or that
+the child makes a binding transfer of authority. The words about increasing
+and decreasing belong to the adult Baptist in the separate scene in
+[John 3:25–30](https://www.biblegateway.com/passage/?search=John%203%3A25-30&version=NRSVUE),
+not to the unborn child in Luke. Neither scene establishes a biological pact.
+
+The chat's assertion that councils rewrote these scenes to conceal John's
+original hereditary office needs actual manuscript evidence. Different
+portrayals and theological emphasis are valid subjects for comparison, but
+they do not on their own establish an earlier text with the proposed office.
+
 ## Tests that could change the assessment
 
 1. Find an independently datable source claiming John held a specific title

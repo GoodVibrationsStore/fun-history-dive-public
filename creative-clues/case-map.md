@@ -30,6 +30,23 @@ records a protected spiritual root and future seed; the
 [planet comparison](./traditions-and-eras/greek-olympian/planets-weekdays-and-archons.md)
 checks the actual seven rulers against the chat's chart.
 
+A selected passage about ten resets and recurring roles is compared with
+flood retellings, protected-child motifs, and different systems of world
+ages in [Repeating stories and resets](./categories/repeating-stories-and-resets.md).
+This remains a focused review, not a reading of every response.
+
+Another selected review covers the chat's Sophia–Christ inversion and its
+Hindu and Buddhist questions. The
+[Sophia note](./traditions-and-eras/early-christian/sophia-eleleth-and-hidden-line.md)
+now separates heavenly Adamas, earthly Adam, and help for Sophia; the
+[Hindu](./traditions-and-eras/hindu/starting-points.md) and
+[Buddhist](./traditions-and-eras/buddhist/starting-points.md) starting points
+keep those living traditions in their own contexts.
+
+A systematic pass is now tracked in [Chat review progress](./archive/chat-review-progress.md).
+The latest passages compare mothers and divided heirs and explore fictional
+character roles. The full chat is still not reviewed.
+
 ## Evidence board
 
 | Lead | What we can say so far | Next step |
@@ -41,6 +58,8 @@ checks the actual seven rulers against the chat's chart.
 | [Maternal line and Emerentia](./categories/maternal-line-and-emerentia.md) | Emerentia, Mary wife of Matthan, and Emorun appear in different traditional trees; the rose vision belongs to a later visionary account. | Trace the traditions to their earliest sources and continue looking for the remembered Barbelo story. |
 | [Sophia, Norea, and the protected root](./traditions-and-eras/early-christian/sophia-eleleth-and-hidden-line.md) | *Hypostasis* describes Norea's protection and a future seed, but not the proposed hidden Barbelo ancestry or mtDNA. | Compare translations and seek a source for the exact remembered story. |
 | [Planets, weekdays, and archons](./traditions-and-eras/greek-olympian/planets-weekdays-and-archons.md) | Weekday names show cultural adaptations; the *Apocryphon* does not supply the chat's fixed planet-to-ruler chart. | Trace each proposed planetary match to a dated text. |
+| [Repeating stories and resets](./categories/repeating-stories-and-resets.md) | Flood narratives preserve a concrete retelling; other parallels and world-age systems have different evidence and counts. | Compare passages and transmission routes without assuming ten literal resets. |
+| [Mothers and divided heirs](./categories/mothers-and-divided-heirs.md) | Rebekah, Frigg, and Kunti have distinct stories; the same secret sacrificial plot is not present in every source. | Check further versions and distinguish motifs from evidence of descent or borrowing. |
 | [Most High comparison grid](./categories/most-high-comparison.md) | An, El, YHWH, the Monad, and other figures occupy different roles in different sources; earlier written evidence does not settle theological truth. | Compare manuscripts, competing interpretations, and specific ancient passages. |
 | [Light, darkness, and Rebis](./light-dark-rebis/pairings-and-maternal-source.md) | Different sources pair different figures; the one-person Rebis and ancestral reset scenario is a creative synthesis, not a documented genetic finding. | Trace particular pairings, alchemical images, and maternal claims to their original contexts. |
 | [John the Baptist and lordship](./categories/john-baptist-and-lordship.md) | John had an independently attested following; available sources do not establish the proposed theft of a title. | Compare early witnesses and seek evidence for each link in the hypothesis. |

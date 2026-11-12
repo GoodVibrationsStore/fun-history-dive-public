@@ -32,9 +32,26 @@ brotherhood, with interpretation still open.
 
 Mark mentions sisters without names or birth order. The sources checked here
 do not establish that one was Jesus's twin. The chat's claim that Thomas had
-a twin sister named Lysia or Lydia needs a precise, dated primary source;
-do not treat that name or relationship as verified. Mythic male-female
-twins and fictional doubles are separate creative comparisons.
+a twin sister named Lysia or Lydia needs a precise source; do not treat that
+relationship as verified. Mythic male-female twins and fictional doubles are
+separate creative comparisons.
+
+### A possible source of the names
+
+The [*History of Joseph the Carpenter*, chapter 2](https://www.newadvent.org/fathers/0805.htm)
+names Joseph's daughters from an earlier marriage **Assia and Lydia** in
+that English translation. A [scholarly overview](https://www.nasscal.com/e-clavis-christian-apocrypha/history-of-joseph-the-carpenter/)
+uses **Lysia and Lydia** in its summary. The work places them in Joseph's
+family before Mary; neither of those descriptions makes either woman a
+twin of Thomas or Jesus. The translation and overview use different forms
+for one name, so checking the relevant manuscript traditions is a further
+step—not grounds to assume their precise relationship. The narrative is a
+later apocryphal account, not a contemporaneous birth record.
+
+If these women were Joseph's daughters from an earlier marriage as this
+story proposes, their maternal mtDNA would ordinarily come from their own
+mother, not from Mary simply because she joined their household.
 
 **Next step:** Compare the Syriac and Greek versions of the *Acts*, and find
-the earliest source for each proposed sister name and relationship.
+the manuscript forms of the sisters' names and any source actually claiming
+the proposed twin relationship.
