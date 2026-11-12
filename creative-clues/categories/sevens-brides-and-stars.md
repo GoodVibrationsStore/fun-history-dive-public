@@ -33,14 +33,43 @@ the youths Pleiades or the film's brides.
 | Seven stars and lampstands | [Revelation 1:20](https://www.biblegateway.com/passage/?search=Revelation%201%3A20&version=NRSVUE) | The text interprets the stars as angels of seven churches and the lampstands as those churches; it does not identify them as the Pleiades. |
 | Bride and bridegroom | [John 3:25–30](https://www.biblegateway.com/passage/?search=John%203%3A25-30&version=NRSVUE) | The Baptist is described as the bridegroom's friend in an image of joy and relative roles. The passage does not identify seven brides or a historical marriage. |
 | Sons of Thunder | [Mark 3:17](https://www.biblegateway.com/passage/?search=Mark%203%3A17&version=NRSVUE) | James and John, sons of Zebedee, receive this name. This John is distinct from John the Baptist. |
+| John in the *Apocryphon* | [*Apocryphon of John*, opening](https://earlychristianwritings.com/text/apocryphonjohn.html) | The narrative presents its John as James's brother and one of Zebedee's sons. That literary attribution does not prove authorship or establish their mother. See [Mary Salome](../maternal-relatives/mary-salome/notes.md). |
 | Seven thunders | [Revelation 10:3–4](https://www.biblegateway.com/passage/?search=Revelation%2010%3A3-4&version=NRSVUE) | Seven thunders sound, and their words are sealed. The passage does not identify them with the two sons of Zebedee or seven people. |
 | Seven seals | [Revelation 6:1–8](https://www.biblegateway.com/passage/?search=Revelation%206%3A1-8&version=NRSVUE) | The white horse appears with the **first** seal; the fourth brings a pale green horse and Death. The chat reversed that detail. |
+| Woman and stars | [Revelation 12:1–6, 17](https://www.biblegateway.com/passage/?search=Revelation%2012%3A1-6%2C17&version=NRSVUE) | The woman's crown has **twelve** stars, not seven. A dragon threatens her child, who is taken to God's throne; she flees to the wilderness. The passage does not call her the Rebis or identify a present-day person. |
+
+The woman in Revelation has been interpreted in more than one way, including
+as a symbol of God's people and, in some Christian traditions, as Mary.
+See this [Catholic discussion](https://www.catholic.com/magazine/online-edition/is-mary-the-woman-in-revelation-12)
+for one explicitly theological reading. These are interpretations of the
+vision, not names supplied for her in Revelation 12. The sun, moon, and
+stars also invite comparison with [Joseph's dream in Genesis 37:9–11](https://www.biblegateway.com/passage/?search=Genesis%2037%3A9-11&version=NRSVUE),
+which has **eleven** stars; a shared image does not make the figures or
+numbers interchangeable.
 
 The actual Pleiades are a star cluster in Taurus, not the constellation
 Orion. The [Orionid meteors](https://science.nasa.gov/solar-system/meteors-meteorites/orionids/)
 come from debris of Halley's Comet; their apparent radiant is near Orion, not
 their physical source. Celestial imagery can inspire comparisons without
 establishing a family connection or forecasting personal events.
+
+## The ecliptic and the claimed royal corridor
+
+[NASA](https://www.nasa.gov/image-article/plane-of-ecliptic/) describes the
+ecliptic as the plane of Earth's orbit, projected as the Sun's apparent
+annual path. The planets tend to appear near it, not all exactly on it.
+The chat's “Royal Corridor” or “Way of the Kings” from Taurus through Leo
+is not established here as a shared ancient name across the cultures it
+lists. Its proposed single meaning for the stars and planets is a modern
+interpretation, not an attested ancient family tree.
+
+The chat's sky forecast is date- and location-dependent. For October 2026,
+[NASA's sky guide](https://science.nasa.gov/solar-system/skywatching/whats-up-october-2026-skywatching-tips-from-nasa/)
+dates Saturn's opposition to October 4 and the Orionid peak to October 21–22.
+Venus reached [inferior conjunction on October 24 UTC](https://in-the-sky.org/news.php?id=20261024_11_100);
+the claim that it was already a bright morning anchor in mid-October
+requires a location-specific check and should not be assumed. Never point
+optics near the Sun.
 
 **Next step:** Trace one proposed connection at a time: which source names both
 sides, when was it written, and does it describe a relationship or merely

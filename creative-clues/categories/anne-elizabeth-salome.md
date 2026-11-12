@@ -46,6 +46,29 @@ mother of James and John. It calls Anne's sister Hismeria, Elizabeth's mother.
 These versions place Salome in different generations and cannot simply be
 merged into one established tree.
 
+### Sibling rivalry as a story lens
+
+[Genesis 25:29–34 and 27:1–40](https://www.biblegateway.com/passage/?search=Genesis%2025%3A29-34%3B27%3A1-40&version=NRSVUE)
+offer a real literary comparison: Esau trades his birthright for food, while
+Jacob later obtains Isaac's blessing by deception. Those are two separate
+episodes. [Genesis 29–30](https://www.biblegateway.com/passage/?search=Genesis%2029-30&version=NRSVUE)
+also depicts tension between Leah and Rachel; it does not say Joseph received
+all the family's inheritance.
+
+By contrast, no source identified here describes Anne stealing her sister's
+name or inheritance, or establishes a campaign to remove the elder Mary
+from scripture. A later genealogy's absence from earlier canonical texts is
+not, by itself, evidence of a deliberate erasure. The “stolen ledger” can
+be explored as fiction without attributing motives or ancestral hostility
+to historical or present-day people.
+
+In the [*Protevangelium*, chapters 19–20](https://www.newadvent.org/fathers/0847.htm),
+an unnamed midwife tells Salome about Mary's birth; Salome doubts, examines
+Mary, and says her hand is “as if burned with fire.” She then prays, holds
+the infant, and is healed. The text does not identify her as the daughter
+of Anne's sister, nor state that this episode represents a feud between
+family branches. It is a later devotional story, not a court record.
+
 Mark names [James and John, sons of Zebedee, “Sons of Thunder”](https://www.biblegateway.com/passage/?search=Mark%203%3A17&version=NRSVUE).
 [Mark 15:40](https://www.biblegateway.com/passage/?search=Mark%2015%3A40&version=NRSVUE)
 names a Salome among the women at the crucifixion;
@@ -110,5 +133,8 @@ into the Merovingians, or a hidden Grail lineage. The primary genealogy and
 its variants still need direct comparison.
 
 Even *if* that proposed tree were biologically accurate, the links from
-Eliud to his children would not ordinarily transmit his mother's mtDNA:
-maternal mtDNA does not usually pass from a father to his children.
+Eliud to his children would not ordinarily transmit his mother's mtDNA
+**if Eliud is a father**, as the painting's interpretation says. The
+Caxton translation of the *Golden Legend* instead calls Eliud one of
+Hismeria's two daughters; see the variant discussion in
+[Jesus's maternal branches](./jesus-maternal-branches.md#3-medieval-holy-kinship).

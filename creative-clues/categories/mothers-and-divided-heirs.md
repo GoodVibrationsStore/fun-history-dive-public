@@ -34,6 +34,35 @@ itself evidence of shared identity, genetic descent, or literary borrowing.
   to the crucifixion in different ways; the words alone do not disclose
   that Jesus learned of a hidden family arrangement.
 
+## A hidden royal child: Athaliah, Jehosheba, and Joash
+
+In [2 Kings 11:1–3](https://www.biblegateway.com/passage/?search=2%20Kings%2011%3A1-3%3B12%3A1&version=NRSVUE),
+Athaliah attempts to destroy the royal family after her son Ahaziah dies.
+**Jehosheba**, identified as Ahaziah's sister, takes his son Joash away
+and hides him with his nurse. [2 Kings 12:1](https://www.biblegateway.com/passage/?search=2%20Kings%2012%3A1&version=NRSVUE)
+names Joash's mother **Zibiah of Beer-sheba**.
+
+This is a clear textual example of a hidden heir and a protective aunt, but
+it does not say Athaliah told an unaware father that a daughter had died.
+Jehosheba is described through Joash's father, so the passage does not
+establish that she shared Joash's maternal mtDNA. Nor does it establish
+an unbroken maternal link between these women and Mary, mother of Jesus.
+
+## Five daughters and an inheritance
+
+[Numbers 27:1–11 and 36:1–12](https://www.biblegateway.com/passage/?search=Numbers%2027%3A1-11%3B36%3A1-12&version=NRSVUE)
+name Zelophehad's five daughters—Mahlah, Noah, Hoglah, Milcah, and
+Tirzah—and describe their request to receive their father's land when he
+has no sons. Chapter 36 also describes a marriage restriction intended to
+keep inherited land within their ancestral tribe.
+
+This concerns a father's land allocation, not a decree that daughters
+inherit a kingdom, a prophecy about a fourth daughter, or an mtDNA
+genealogy. Their mother and a maternal connection to Jesus are not supplied
+in these passages. [Matthew 5:5 and Psalm 37:11](https://www.biblegateway.com/passage/?search=Matthew%205%3A5%3BPsalm%2037%3A11&version=NRSVUE)
+are separate texts about the meek inheriting the earth or land; they do not
+identify these sisters as a hidden lineage.
+
 ## Did resurrection undo the sacrifice?
 
 The chat raises a theological question: if Jesus was raised, did his death

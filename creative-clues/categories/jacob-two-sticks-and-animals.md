@@ -66,6 +66,24 @@ neither Ezekiel nor Chronicles identifies that family or proves ancestry.
 | Jeroboam's calves | [1 Kings 12:26–30](https://www.biblegateway.com/passage/?search=1%20Kings%2012%3A26-30&version=NRSVUE) | The narrative says Jeroboam fears losing allegiance to Judah and sets calves at Bethel and Dan. Its evaluation is the biblical narrator's perspective. |
 | Behemoth | [Job 40:15–24](https://www.biblegateway.com/passage/?search=Job%2040%3A15-24&version=NRSVUE) | Behemoth eats grass **like** an ox and lies among reeds and marsh plants. Job does not call it a bull chained underground. |
 
+### The Red Bull, Taurus, and Apis
+
+The chat combines several bull images into a single proposed adversary.
+They have different contexts:
+
+- The **Red Bull** in *The Last Unicorn* is a modern fictional character;
+  its role in that story is not itself an ancient alchemical teaching.
+- [Taurus](https://science.nasa.gov/solar-system/skywatching/night-sky-network/spot-the-young-stars-of-the-hyades-and-pleiades/)
+  is a constellation associated with a bull; the Pleiades appear in it.
+  Astronomy does not identify a person or establish a family relationship
+  from the constellation.
+- [Apis](https://www.britannica.com/topic/Apis-Egyptian-deity) was a sacred
+  bull associated with Memphis and, in different contexts, Ptah and Osiris.
+  He is not identified as Aaron's calf by [Exodus 32](https://www.biblegateway.com/passage/?search=Exodus%2032%3A1-6&version=NRSVUE).
+
+A destiny-swapping bull who pursues a Rebis can be a creative character,
+but this combination is not a family tree or a documented common myth.
+
 The chat also combines the throne creatures. In
 [Ezekiel 1:5–10](https://www.biblegateway.com/passage/?search=Ezekiel%201%3A5-10&version=NRSVUE),
 each of four creatures has four faces and four wings. In

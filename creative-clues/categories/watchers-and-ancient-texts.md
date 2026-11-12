@@ -54,6 +54,14 @@ also keeps its Invisible Spirit distinct from the chief ruler in that
 particular narrative; the chat's automatic equation of Monad and YHWH
 requires an argument rather than a name match.
 
+The chat's seven suitors are another modern crossover. In the
+[*Apocryphon of John*](https://earlychristianwritings.com/text/apocryphonjohn.html),
+Yaldabaoth appoints seven kings over heavens and five over an abyss. The
+passage does not describe the chat's seven gods as a set of suitors to a
+Rebis or establish that figures from the different pantheons are identical.
+Its John is presented as James's brother, a son of Zebedee—not John the
+Baptist. See [Mary Salome's branch](../maternal-relatives/mary-salome/notes.md).
+
 ## What came after Jubilees?
 
 There was no single required next book. Related Jewish works have overlapping
@@ -61,6 +69,40 @@ and debated dates, authorship, and relationships. The chat's proposed
 sequence from Jubilees straight through the *Testaments of the Twelve
 Patriarchs*, Qumran texts, and the *Book of Giants* is a reading route, not
 proof that each directly follows or expands the previous one.
+
+### Additional texts and family names
+
+- **Jasher:** [Joshua 10:13 and 2 Samuel 1:18](https://www.biblegateway.com/passage/?search=Joshua%2010%3A13%3B2%20Samuel%201%3A18&version=NRSVUE)
+  refer to a Book of Jashar. The later [*Sefer HaYashar* midrash](https://www.sefaria.org/Sefer_HaYashar_(midrash))
+  retells biblical history and is generally dated to the medieval period;
+  its shared title does not establish that it is the ancient cited work.
+  Stories in it cannot automatically be treated as eyewitness records or
+  evidence of ancient genetic engineering.
+- **Testaments:** [Britannica](https://www.britannica.com/topic/Testaments-of-the-Twelve-Patriarchs)
+  describes the surviving Greek *Testaments of the Twelve Patriarchs* as a
+  layered work with Christian material and related earlier traditions.
+  Assigning the whole surviving collection a fixed 150–100 BCE date or
+  making it a direct sequel to Jubilees oversimplifies a disputed history.
+- **Book of Giants:** The Qumran fragments are incomplete. One
+  [overview](https://satyori.com/source-texts/book-of-giants/) identifies
+  Ohya and Hahya as sons of Shemihazah, but Mahaway as son of Barakel.
+  The chat's claim that all three were Shemihazah's sons needs correction;
+  exact fragment readings and reconstructions still need checking.
+
+### Three Maccabean leads
+
+- [3 Maccabees 6:18–22](https://www.biblegateway.com/passage/?search=3%20Maccabees%206%3A18-22&version=NRSVUE)
+  tells of angels and elephants turning against troops in a story set in
+  Ptolemaic Egypt; it is not a direct account of the Maccabean revolt.
+- [4 Maccabees 1:1–4](https://www.biblegateway.com/passage/?search=4%20Maccabees%201%3A1-4&version=NRSVUE)
+  opens with the question whether pious reason rules the passions. It is
+  philosophical Jewish writing; calling it a Gnostic account of archons is
+  an unsupported overlay.
+- [1 Maccabees 14:41–47](https://www.biblegateway.com/passage/?search=1%20Maccabees%2014%3A41-47&version=NRSVUE)
+  calls Simon leader, high priest, commander, and ethnarch, not king.
+  [Aristobulus I](https://www.britannica.com/biography/Aristobulus-I)
+  is a later Hasmonean king. Claims about a single Qumran community's
+  motives or a precise split require separate evidence.
 
 **4 Ezra** is one later lead: its Jewish apocalyptic core appears as
 chapters 3–14 in a work often called **2 Esdras** in English. Names and

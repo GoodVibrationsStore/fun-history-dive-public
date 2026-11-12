@@ -23,6 +23,16 @@ cannot fill an undocumented chain to a named ancient figure by themselves.
 Keep individual results and family details private unless their owner chooses
 to share them.
 
+The chat also combines an Indigenous ancestry claim with a proposed royal
+maternal line and claims to land. Those are separate questions: descent,
+an uninterrupted mother-to-child mtDNA chain, community citizenship, and
+legal rights each require their own evidence. The
+[U.S. Department of the Interior](https://www.doi.gov/tribes/enrollment)
+explains that tribal membership criteria vary and each tribe determines
+eligibility. A DNA estimate or a story about an ancestor alone does not
+establish tribal citizenship or ownership of land; consult the relevant
+tribe and applicable records rather than assuming a universal rule.
+
 The chat also describes mtDNA as an absolutely unchanged, unique signature
 and treats complexion as a way to confirm a concealed line. In reality,
 maternal sequences can acquire mutations and vary through heteroplasmy; a

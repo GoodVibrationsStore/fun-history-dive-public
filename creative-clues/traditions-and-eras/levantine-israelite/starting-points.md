@@ -9,6 +9,17 @@ Athirat](https://era.ed.ac.uk/items/1a86132d-3a63-4458-9592-d46921b5a8d5).
 These texts do not provide a biological family tree connecting the deities
 to Jesus or John.
 
+## Source check: senior deities and later Israelite texts
+
+| Clue | What can be said | What remains uncertain |
+| --- | --- | --- |
+| **El and Athirat** | At Ugarit, El heads the pantheon and Athirat is associated with him as consort and mother of gods. [Wiggins's study](https://era.ed.ac.uk/items/1a86132d-3a63-4458-9592-d46921b5a8d5) stresses that her character differs across cultures and cautions against assuming a generalized fertility goddess. | Senior status or an absent origin story does not establish that either is philosophically uncreated. The oldest attestation of a name does not prove which deity is oldest in reality. |
+| **The seventy sons** | [Emanuel Tov](https://www.thetorah.com/article/the-sons-of-israel-or-god-deuteronomy-32-8) cites Ugaritic text KTU 1.4 VI.46 for the seventy sons of Athirat. | The collective formula alone does not establish a complete, consistent family tree for each god. Baal is also called son of Dagan; see [Daniel Schwemer's study of Baal's paternity](https://www.jstor.org/stable/10.7817/jameroriesoci.133.4.0651). |
+| **Yhw in Egyptian records** | A 14th-century BCE Soleb inscription mentions a place/group associated with *Yhw*; it is a possible early clue to the divine name and southern connections. See the [Most High comparison](../../categories/most-high-comparison.md). | The identification with YHWH and the precise location and origin of worship are debated. An inscriptional date is not a deity's birth date. |
+| **Deuteronomy 32:8–9** | The Dead Sea Scrolls preserve a “sons of God” reading, the Masoretic text “sons of Israel,” and Greek witnesses generally “angels of God.” The passage assigns Jacob as YHWH's portion. | Some scholars read Elyon and YHWH as distinct in an older council setting; others read Elyon as YHWH's title. The verse does not explicitly say “YHWH is El's son.” See the [manuscript comparison](../../categories/most-high-comparison.md#a-disputed-clue-who-receives-the-nations). |
+| **“YHWH and his asherah”** | Kuntillet Ajrud inscriptions include blessings invoking YHWH and “his asherah”; related wording appears at Khirbet el-Qom. | A goddess, her symbol, or a cult object are debated readings. These phrases alone do not explicitly say “wife” or prove that all Israelites held one belief. |
+| **Reform** | [2 Kings 23:4–7](https://www.biblegateway.com/passage/?search=2%20Kings%2023%3A4-7&version=NRSVUE) narrates Josiah's removal of objects and an asherah from the Jerusalem temple. | The narrative is evidence for its authors' account and program; it does not by itself prove a single completed purge of every local practice. |
+
 The Hebrew Bible uses *El Elyon* (“God Most High”) in
 [Genesis 14:18–22](https://www.biblegateway.com/passage/?search=Genesis%2014%3A18-22&version=NRSVUE)
 and calls YHWH the Most High in
@@ -28,6 +39,6 @@ personifies Wisdom beside God in creation; it does not call her a wife.
   Proverbs and Sophia in different early Christian myths have different
   textual roles. A shared word is a comparison clue, not a complete identity.
 
-**Next step:** Check particular Ugaritic passages and compare the witnesses
-to Deuteronomy 32:8–9 without treating any single reconstruction as settled.
+**Next step:** Read KTU 1.4 VI.46 in a scholarly translation and compare the
+inscriptions directly without treating any single reconstruction as settled.
 Return to the [overview](../overview.md).

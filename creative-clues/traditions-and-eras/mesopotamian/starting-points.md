@@ -24,6 +24,16 @@
 | Is Tiamat the dark mother in every later story? | She is a primordial figure in a particular Babylonian narrative. Similar water or dragon imagery elsewhere is not enough to establish identity. |
 | Did a reset preserve one sacred family? | These sources do not establish that. A comparison with the chat's imagined resets is creative. |
 
+## Gilgamesh and the plant
+
+The chat's historical song also mentions Gilgamesh seeking a flower of
+eternal life. In [tablet XI of the *Epic of Gilgamesh*](https://www.ancienttexts.org/library/mesopotamian/gilgamesh/tab11.htm),
+Utanapishtim tells him about a thorny plant that restores youth. Gilgamesh
+retrieves it, intending to take it home and test it, but a snake carries it
+away and sheds its skin. The plant's named effect in this translation is
+renewed youth; the passage does not say Gilgamesh ate it or became immortal.
+This episode is distinct from the flood narrative earlier in the tablet.
+
 **Next step:** Compare a complete translation of Inanna's descent with the
 specific Sophia passage, tracking agency, helpers, and what “return” means
 in each text. See the [cross-tradition overview](../overview.md).

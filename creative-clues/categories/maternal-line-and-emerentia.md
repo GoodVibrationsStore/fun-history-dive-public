@@ -80,6 +80,30 @@ original Greek and transmission need further checking; it does not name
 their mother Emerentia. The Salome it names as a midwife is not automatically
 the mother of Zebedee's sons.
 
+### The repeated Mary name
+
+The tree above contains three women named Mary: Matthan's wife, their
+daughter, and Anne's daughter. The shared name permits a creative
+interpretation of an aunt and niece as echoes of one another, but the
+secondary quotation does not say the niece was *named after* her aunt or
+explain a naming motive. It also does not establish a maternal inheritance
+law or a rivalry between the sisters.
+
+The [*Golden Legend*, Nativity of Our Lady](https://www.christianiconography.info/goldenLegend/maryNativity.htm)
+offers a different tree: Anne's sister is Hismeria, and Anne herself has
+three daughters called Mary by three husbands. In its birth story an angel
+tells Joachim to name the child Mary. It does not supply the proposed
+Emerentia–Matthan–three-sisters tree or attribute the name to an elder aunt.
+Joachim's rejection and the couple's long childlessness are part of that
+legend, not proof of a historical family conflict.
+
+The meaning of *Miryam* is uncertain; “bitter sea” is a proposed
+interpretation, not an established literal derivation. A separate Jewish
+tradition associates Miriam, Moses's sister, with a well that accompanied
+Israel in the wilderness; see the [Jewish Encyclopedia's account](https://www.jewishencyclopedia.com/articles/10874-miriam),
+which cites *Taanit* 9a. The well is a meaningful water motif, not evidence
+that these later Marys belong to a documented primordial line.
+
 ## 4. Emorun and the rose: Emmerich's different visionary tree
 
 The nineteenth-century visionary account recorded by Clemens Brentano gives
