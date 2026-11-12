@@ -18,6 +18,11 @@ not evidence it inspired the film or that either account refers to the
 Pleiades. Nor does the shared number establish that the film's brides are
 the seven star-sisters.
 
+Another seven appears in the Theseus cycle: youths from Athens are sent as
+tribute to Crete. Check the version and its count separately from the
+[Ariadne thread](./pearl-and-labyrinth.md); a shared number does not make
+the youths Pleiades or the film's brides.
+
 ## Nearby clues, different meanings
 
 | Clue | Text or source | What it actually describes |

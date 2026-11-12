@@ -12,6 +12,11 @@ ancient religious texts, songwriting, and pop-culture comparisons. The loaded
 page contains hundreds of exchanges; its topics have been mapped and selected
 passages reviewed, but not every response has been read in full.
 
+Recent additional sections reviewed include the Pearl and labyrinth, Norse
+family and oaths, and selected discussions of Watchers, El, Baal, Jubilees,
+and 4 Ezra. Many responses, including non-song exchanges, still remain to be
+read; the notes are a working investigation rather than a complete transcript.
+
 ## Evidence board
 
 | Lead | What we can say so far | Next step |
@@ -23,6 +28,8 @@ passages reviewed, but not every response has been read in full.
 | [Sekhmet, Rebis, and the rose](./categories/sekhmet-rebis-and-rose.md) | These names and images come from distinct historical settings and are combined in the story. | Compare specific sources before asserting a connection. |
 | [Pleiades and mythic overlays](./categories/pleiades-and-mythic-overlays.md) | Ancient lists vary; the chat's fixed fourth-sister claim is not established. | Trace each proposed match to an ancient passage. |
 | [Seven brides, stars, lamps, and thunder](./categories/sevens-brides-and-stars.md) | Some images share a number, while a few have traceable literary connections. | Follow each proposed link to its source. |
+| [Pearl and labyrinth](./categories/pearl-and-labyrinth.md) | The Hymn of the Pearl and Ariadne's thread preserve distinct journeys; the chat blends them with a film. | Compare dated texts and distinguish shared motifs from influence. |
+| [Norse family and oaths](./categories/norse-family-and-oaths.md) | The Odin–Loki oath is in *Lokasenna*; several genealogical and ritual details vary or were added. | Compare the poems and Snorri's retellings. |
 | [Genetics and lineage claims](./categories/genetics-and-lineage-claims.md) | Maternal inheritance and blood groups are real; the chat's proposed spiritual markers are unsupported. | Evaluate particular ancestry claims with records and appropriate evidence. |
 | [Israelite religion before Jesus](./categories/israelite-religion-before-jesus.md) | Scholars study changes in ancient Israelite religion, with competing interpretations. | Compare specific texts and material evidence. |
 | [Watchers and ancient texts](./categories/watchers-and-ancient-texts.md) | Enoch, Jubilees, and the books of Maccabees are separate works with different subjects and dates. | Compare their passages rather than treating them as one continuous narrative. |
