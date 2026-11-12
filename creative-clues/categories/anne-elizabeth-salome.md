@@ -78,6 +78,6 @@ therefore not ordinarily a continuous maternal mtDNA path. Shared mtDNA also
 does not identify a particular ancient individual or establish spiritual
 status. See [Britannica on mitochondrial inheritance](https://www.britannica.com/science/How-are-mitochondrial-DNA-disorders-passed-from-parent-to-child).
 
-**Next step:** Draw a separate family tree for each identified source, marking
-relationships as stated, inferred, or not specified. Do not join the trees
-until there is evidence for each link.
+See [Maternal line and Emerentia](./maternal-line-and-emerentia.md) for
+separate trees, an older visionary ancestor, and the limits of mtDNA tracing.
+Do not join the trees until there is evidence for each link.

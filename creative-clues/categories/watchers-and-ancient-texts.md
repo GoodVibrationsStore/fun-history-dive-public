@@ -22,7 +22,7 @@ not evidence that the two stories describe the same family.
 The chat suggests the Watchers became El and Baal in a sequence beginning
 with their descent on Mount Hermon. As a story-world theory, this can be
 explored; as a textual timeline it runs into a problem: the
-[Ugaritic Baal Cycle](https://www.britannica.com/topic/Baal-cycle), which
+[Ugaritic Baal Cycle](https://www.biblexika.com/sacred-texts/baal-cycle), which
 includes the gods Baal and El, is attested on Late Bronze Age tablets
 centuries earlier than the Book of the Watchers. The
 [Watchers overview](https://bibleinterp.arizona.edu/articles/2018/05/esl428016)

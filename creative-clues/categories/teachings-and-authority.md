@@ -60,6 +60,26 @@ or the historical overthrow of a divine ruler. The chat's Rebis-versus-archons
 scenario combines traditions; it should be read as an imaginative synthesis
 unless a source for the specific connection is identified.
 
+### A closer look at the chat's family tree
+
+In [Frederik Wisse's translation](https://earlychristianwritings.com/text/apocryphonjohn.html),
+Barbelo emerges as the Spirit's first thought. The Spirit and Barbelo are
+connected with the emergence of the divine Autogenes, and the account lists
+Wisdom among three aeons associated with the fourth light, Eleleth. Sophia
+brings forth Yaltabaoth without her consort or the Spirit's consent. The
+translation does **not** name that consort Theletos in this passage. Other
+texts and manuscript versions need to be checked before supplying a name or
+presenting this structure as universal.
+
+The same translation gives Yaltabaoth alternative names Saklas and Samael
+and attributes to him a boast resembling biblical declarations of divine
+uniqueness. This is a provocative rereading of biblical language, not evidence
+that all ancient groups called Gnostic interpreted the divine name the same
+way. The chat's direct “Monad = light, Barbelo = darkness” pairing also
+differs from this text, which describes Barbelo's light as like the Spirit's.
+
 **Next steps:** Read the passages in context, note what each writer claims,
 and compare scholarly arguments about dating and authority. Seek alternative
 explanations alongside any theory of suppression.
+
+For a cross-tradition grid, see [Most High comparison](./most-high-comparison.md).

@@ -14,17 +14,39 @@ passages reviewed, but not every response has been read in full.
 
 Recent additional sections reviewed include the Pearl and labyrinth, Norse
 family and oaths, and selected discussions of Watchers, El, Baal, Jubilees,
-and 4 Ezra. Many responses, including non-song exchanges, still remain to be
-read; the notes are a working investigation rather than a complete transcript.
+4 Ezra, Jacob's household, tribal imagery, Sophia and Barbelo, the Thomas
+twin tradition, and Passover and Grail imagery. Many responses, including
+non-song exchanges, still remain to be read; the notes are a working
+investigation rather than a complete transcript.
+
+The latest focused review adds Emorun's rose vision, a hidden-light passage,
+and the chat's claims about El Elyon, YHWH, Sophia, and the Monad. These
+are selected passages, not a full review of the conversation.
+
+A further selected review covers the five-figure Sophia sequence, the
+planet-and-weekday chart, Cronus and Rhea, and women in the Gospel stories.
+The [Norea comparison](./traditions-and-eras/early-christian/sophia-eleleth-and-hidden-line.md)
+records a protected spiritual root and future seed; the
+[planet comparison](./traditions-and-eras/greek-olympian/planets-weekdays-and-archons.md)
+checks the actual seven rulers against the chat's chart.
 
 ## Evidence board
 
 | Lead | What we can say so far | Next step |
 | --- | --- | --- |
+| [Traditions and eras](./traditions-and-eras/overview.md) | Separate folders trace Mesopotamian, Egyptian, Levantine, Greek, early Christian, and later clues without implying a single proven lineage. | Follow each proposed link to dated sources and assess cultural contact. |
 | [Women and Provence](./categories/women-and-provence.md) | Gospel accounts and medieval voyage legends are different layers. | Compare the people named in each source. |
 | [Lineage and the rose](./categories/lineage-and-rose.md) | Matthew and Luke give different genealogies; the conversation also uses a rose-line motif for a creative hidden-heir story. | Trace particular historical claims to independent records. |
 | [Anne, Elizabeth, and Salome](./categories/anne-elizabeth-salome.md) | A later family-tree tradition has been blended with earlier accounts in the conversation. | Trace each family connection to a specific text. |
+| [Maternal line and Emerentia](./categories/maternal-line-and-emerentia.md) | Emerentia, Mary wife of Matthan, and Emorun appear in different traditional trees; the rose vision belongs to a later visionary account. | Trace the traditions to their earliest sources and continue looking for the remembered Barbelo story. |
+| [Sophia, Norea, and the protected root](./traditions-and-eras/early-christian/sophia-eleleth-and-hidden-line.md) | *Hypostasis* describes Norea's protection and a future seed, but not the proposed hidden Barbelo ancestry or mtDNA. | Compare translations and seek a source for the exact remembered story. |
+| [Planets, weekdays, and archons](./traditions-and-eras/greek-olympian/planets-weekdays-and-archons.md) | Weekday names show cultural adaptations; the *Apocryphon* does not supply the chat's fixed planet-to-ruler chart. | Trace each proposed planetary match to a dated text. |
+| [Most High comparison grid](./categories/most-high-comparison.md) | An, El, YHWH, the Monad, and other figures occupy different roles in different sources; earlier written evidence does not settle theological truth. | Compare manuscripts, competing interpretations, and specific ancient passages. |
+| [Light, darkness, and Rebis](./light-dark-rebis/pairings-and-maternal-source.md) | Different sources pair different figures; the one-person Rebis and ancestral reset scenario is a creative synthesis, not a documented genetic finding. | Trace particular pairings, alchemical images, and maternal claims to their original contexts. |
 | [John the Baptist and lordship](./categories/john-baptist-and-lordship.md) | John had an independently attested following; available sources do not establish the proposed theft of a title. | Compare early witnesses and seek evidence for each link in the hypothesis. |
+| [Thomas and the twin](./categories/thomas-and-the-twin.md) | Later Christian texts use twin and brother language, but do not establish a biological twin or name a twin sister. | Compare the versions and trace the sister-name claim to a dated source. |
+| [Passover, hyssop, and Grail](./categories/passover-hyssop-and-grail.md) | Hyssop appears in Exodus and John; claims about the meal's missing fourth cup and the Grail add later interpretation. | Compare the Gospel accounts, rabbinic ritual, and medieval stories separately. |
+| [Jacob, two sticks, and animals](./categories/jacob-two-sticks-and-animals.md) | Biblical narratives connect Judah's scepter, Joseph's birthright, and the reunification of Judah and Joseph, while other animal comparisons come from distinct passages. | Compare the succession stories and each image without assuming modern ancestry. |
 | [Sekhmet, Rebis, and the rose](./categories/sekhmet-rebis-and-rose.md) | These names and images come from distinct historical settings and are combined in the story. | Compare specific sources before asserting a connection. |
 | [Pleiades and mythic overlays](./categories/pleiades-and-mythic-overlays.md) | Ancient lists vary; the chat's fixed fourth-sister claim is not established. | Trace each proposed match to an ancient passage. |
 | [Seven brides, stars, lamps, and thunder](./categories/sevens-brides-and-stars.md) | Some images share a number, while a few have traceable literary connections. | Follow each proposed link to its source. |

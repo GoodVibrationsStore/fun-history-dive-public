@@ -24,6 +24,9 @@ the union of opposites, and rediscovering agency. A theme shared by two works
 does not show that they describe the same being, or that one borrowed from
 the other.
 
+See the [light, darkness, and Rebis investigation](../light-dark-rebis/pairings-and-maternal-source.md)
+for a comparison of proposed divine pairs and the maternal-thread idea.
+
 For each comparison record the artifact or text, culture, date, what it
 actually depicts, and what the creative story adds. Avoid equating a modern
 character or a living person's family history with an ancient deity based on

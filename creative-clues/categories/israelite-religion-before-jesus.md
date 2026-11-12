@@ -35,3 +35,6 @@ or that any particular person's teachings were stolen.
 **Next step:** Choose one claim about a specific deity, text, or reform and
 compare the primary passage with archaeological evidence and at least two
 scholarly interpretations.
+
+See [Most High comparison](./most-high-comparison.md) for a closer look at
+El Elyon, YHWH, divine-council readings, and competing interpretations.
