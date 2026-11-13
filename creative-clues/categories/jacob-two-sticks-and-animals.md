@@ -56,6 +56,28 @@ These are useful passages for the chat's “scepter and seed” imagery. A
 modern family's union or particular family tree may use the image creatively;
 neither Ezekiel nor Chronicles identifies that family or proves ancestry.
 
+### Rachel, Asenath, and two different maternal paths
+
+[Genesis 30:22–24 and 35:16–20](https://www.biblegateway.com/passage/?search=Genesis%2030%3A22-24%3BGenesis%2035%3A16-20&version=NRSVUE)
+name **Rachel** as the mother of Joseph and Benjamin. In
+[Genesis 41:45, 50–52](https://www.biblegateway.com/passage/?search=Genesis%2041%3A45-52&version=NRSVUE),
+**Asenath**, daughter of Potiphera, is the mother of Joseph's sons
+**Manasseh** and **Ephraim**. Their grandfather Jacob later claims the
+two sons as his own in [Genesis 48:5](https://www.biblegateway.com/passage/?search=Genesis%2048%3A5-6&version=NRSVUE).
+
+```text
+Rachel  ──→ Joseph and Benjamin
+Asenath ──→ Manasseh and Ephraim (their father: Joseph)
+```
+
+If these were biological relationships, Joseph and Benjamin would
+ordinarily inherit Rachel's mtDNA; Manasseh and Ephraim would inherit
+Asenath's, not mtDNA through their father Joseph. The passages do not
+establish whether Rachel and Asenath themselves shared a maternal line.
+Both sons ordinarily would not pass on Asenath's mtDNA to their children.
+The narrative does not provide an uninterrupted maternal path from either
+woman to Mary, mother of Jesus, or a DNA sample verifying these figures.
+
 ## Wolf, ox, and calf: do not flatten the images
 
 | Image | Source | What it says |

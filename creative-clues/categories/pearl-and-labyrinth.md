@@ -45,6 +45,29 @@ figurative sense grew from the motif of a thread guiding someone through a
 maze. Theseus's story is a famous example. The language history is English;
 the myth is Greek.
 
+The chat also asks about Theseus's mother. In
+[Plutarch's *Life of Theseus*, chapters 3–6](https://www.theoi.com/Text/PlutarchTheseus.html),
+she is **Aethra**, daughter of Pittheus of Troezen. The account includes
+traditions involving both Aegeus and Poseidon as Theseus's father; these
+are mythic parentage claims, not evidence for a biological connection to
+Mary or Jesus.
+
+### Daedalus's mother and the Merope question
+
+In [Pseudo-Apollodorus, *Library* 3.15.8](https://www.theoi.com/Text/Apollodorus3.html#15),
+Daedalus's mother is **Alcippe**, his father Eupalamus, and his sister
+Perdix the mother of Talos. The [Epitome 1.12](https://www.theoi.com/Text/ApollodorusE.html#1)
+names **Naucrate** as the mother of Daedalus's son Icarus; it does not
+give Daedalus's parentage. These are mythic family relationships, not
+evidence for a connection to Jesus's family.
+
+The chat attributes a different mother, **Merope**, to Plutarch. That
+attribution remains **unverified**; Alcippe in one account does not prove
+there are no variants. Separately, [*Library* 3.10.1](https://www.theoi.com/Nymphe/NympheMerope.html)
+names Merope among the Pleiades, daughters of Atlas and Pleione. A shared
+name alone cannot establish that the Pleiad is the purported mother of
+Daedalus. Find the exact Plutarch passage before joining those identities.
+
 The chat also links this thread with East Asian red-thread-of-fate traditions.
 That is an evocative comparison between navigating a maze and destined
 relationships. A shared thread image does not establish that one tradition

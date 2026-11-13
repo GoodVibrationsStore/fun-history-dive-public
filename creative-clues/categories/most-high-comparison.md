@@ -50,6 +50,16 @@ notes this ambiguity. The manuscript difference is real; it does not, by
 itself, establish either reading, the reason for a change, or a literal
 murder of one deity by another.
 
+## Melchizedek's unrecorded genealogy
+
+[Genesis 14:18–20](https://www.biblegateway.com/passage/?search=Genesis%2014%3A18-20%3BHebrews%207%3A1-3&version=NRSVUE)
+introduces Melchizedek as king of Salem and priest of God Most High, without
+naming his parents or genealogy. The wording “without father, without mother,
+without genealogy” occurs in **Hebrews 7:3**, not in Genesis; Hebrews uses
+it in a theological comparison with the Son of God. Interpretations differ
+over what that description means. Neither passage supplies a maternal
+family tree linking Melchizedek to Mary or evidence of an mtDNA lineage.
+
 ## Compare the story structures—not a single merged family tree
 
 ```text

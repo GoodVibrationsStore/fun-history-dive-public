@@ -49,25 +49,38 @@ all earlier selections.
 | 10827–11252 | Read visible prose | The fictional Red Bull and a cosmic declaration; see [animal clues](../categories/jacob-two-sticks-and-animals.md) and [creative overlays](../categories/creative-overlays.md). |
 | 11253–11950 | Surveyed visible headings; music skipped | Song drafts and revisions. Some prompts have collapsed previews. The last draft continues beyond this range. |
 | 11951–13500 | Surveyed visible headings; music skipped | Further song drafts, generation requests, and a conversation about music generation. Some prompts have collapsed previews; audio was not independently inspected. The last response continues beyond this range. |
+| 13501–16082 | Surveyed visible headings; music skipped; selected prose read | Music, descriptions, and fictional media references. Prose before two drafts uses media as character overlays; see [creative overlays](../categories/creative-overlays.md). Collapsed prompts remain unresolved. |
+| 16083–16111 | Read visible prose | A fictional wolf and lioness comparison; the biblical animal images are separated in [animal clues](../categories/jacob-two-sticks-and-animals.md). |
+| 16112–27472 | Surveyed visible headings; music skipped; selected prose read | Music drafts and generation; selected non-lyric discussion at 16256–16308 and 21652–21683. No private allegations copied. Some prompts are collapsed, and audio was not independently inspected. |
+| 27473–27503 | Read visible prose; prompt partly collapsed | A proposed family-history connection. The visible preview and response do not document the proposed ancestral links; see [genetics](../categories/genetics-and-lineage-claims.md). No private family details copied. |
+| 27504–27786 | Surveyed visible headings; music skipped | Song and fictional text-message concepts. One user prompt asks for no song but the response supplies lyrics; collapsed content remains unresolved. |
+| 27787–27844 | Read visible prose | Text-to-video app discussion; specific features were not independently verified. |
+| 27845–30468 | Surveyed visible headings; music skipped; selected prose read | Music drafts and requests, with a non-lyric response at 30079–30109. Some prompts are collapsed; audio was not independently inspected. |
+| 30469–30715 | Read visible prose; music skipped | Discussion of a proposed count and heritage claim, interspersed with unwanted song drafts. A story count is not evidence of lineage or identity. |
+| 30716–31902 | Surveyed visible headings; music skipped | Song drafts and generation discussion; some prompts are collapsed. |
+| 31903–31935 | Read visible prose | A requested *The Originals* story overlay; see [creative overlays](../categories/creative-overlays.md). The response continues into an unrequested song. |
+| 31936–32632 | Surveyed visible headings; music skipped | Song drafts and production concepts; some prompts are collapsed. |
+| 32633–32653 | Read visible prose | A gematria and iron comparison introduced as a music concept; the numerical claims and their limits are recorded in [creative overlays](../categories/creative-overlays.md). |
+| 32654–33808 | Surveyed visible headings; music skipped | Song concepts, drafts, and production discussion. The response immediately preceding the next non-music prompt is musical. |
+| 33809–34845 | Read visible prose; some prompts collapsed | Fictional mirror-shard cosmology, resets, maternal DNA, and quantum metaphors. See [creative overlays](../categories/creative-overlays.md), [genetics](../categories/genetics-and-lineage-claims.md), and [resets](../categories/repeating-stories-and-resets.md). |
+| 34846–38792 | Surveyed visible headings; music skipped | Song and lyric requests. Some prompts are collapsed; audio was not independently inspected. |
+| 38793–39050 | Read visible prose | *Hymn of the Pearl*, *Pan's Labyrinth*, Ariadne's thread, and Theseus's mother Aethra; see [pearl and labyrinth](../categories/pearl-and-labyrinth.md). |
+| 39051–39510 | Surveyed visible headings; music skipped; selected prose read | Song drafts and a biblical-archetype list at 39387–39413. Joseph's pit is checked in [mothers and divided heirs](../categories/mothers-and-divided-heirs.md). Some prompts are collapsed. |
+| 39511–39805 | Read visible prose | Loki's and Odin's families, Freyja, Loki's binding, and modern film comparisons; see [Norse family and oaths](../categories/norse-family-and-oaths.md). Embedded videos were not independently inspected. |
+| 39806–40000 | Read visible prose | Baldr's family and the proposed Odin–Loki blood pact; see [Norse family and oaths](../categories/norse-family-and-oaths.md). Embedded videos were not independently inspected. |
+| 40001–41050 | Read visible prose | Loki and Thor, Tabitha, names, and a proposed cross-cultural council. See [Norse family and oaths](../categories/norse-family-and-oaths.md), [Tabitha](../categories/mothers-and-divided-heirs.md#tabitha-dorcas-and-talitha-koum), and [creative overlays](../categories/creative-overlays.md). Embedded videos were not independently inspected. |
+| 41051–41750 | Read visible prose; music skipped; one prompt partly collapsed | Name pairings, family-based mythic roles, and a proposed Norse–Greek hierarchy. These are imaginative comparisons, not evidence about real people's ancestry, intentions, or supernatural status. No private family details copied. The last response continues beyond this range. |
+| 41751–43100 | Read visible prose; music skipped; some prompts partly collapsed | Family-tree and land-claim overlays, Joseph and Benjamin, Melchizedek, Daedalus's parentage, proposed divine succession, Freyja and Loki, and fictional counterparts. Findings: [Rachel and Asenath](../categories/jacob-two-sticks-and-animals.md#rachel-asenath-and-two-different-maternal-paths), [Joseph](../categories/mothers-and-divided-heirs.md#joseph-in-the-pit), [Melchizedek](../categories/most-high-comparison.md#melchizedeks-unrecorded-genealogy), [Daedalus](../categories/pearl-and-labyrinth.md#daedaluss-mother-and-the-merope-question), and [Freyja](../categories/norse-family-and-oaths.md#freyja-and-loki-accusations-versus-evidence). No private family details copied. The last response continues beyond this range. |
 
 ## Additional selected passages, not a continuous pass
 
 - **10344–38000:** User-message headings were surveyed to locate topics;
   this does not establish that intervening non-music responses were read.
-- **16083–16111:** A brief non-music response among music drafts was read.
-- **27473–27503:** A genealogy prompt was sampled but is partly collapsed;
-  no private family details were copied.
-- **27787–27844:** Text-to-video apps were discussed; their features were
-  not independently verified.
-- **30469–30715:** Non-music dialogue was sampled among song drafts.
-- **31781–31955:** A television-story comparison was sampled; the response
-  changes into a song, which was skipped.
-- **33809–34845:** Visible fictional cosmology, mirror imagery, resets,
-  and genetics/quantum metaphors were read; some prompts are collapsed.
-  See [creative overlays](../categories/creative-overlays.md) and
-  [resets](../categories/repeating-stories-and-resets.md).
+- **43249–43468:** Read a selected passage on Medusa and Athena. The chat
+  combines variants and interpretation; specific claims still need
+  primary-source checks before being recorded as historical evidence.
 
-**Next position:** line 13501, continuing the music discussion, then proceed
+**Next position:** line 43101, then proceed
 through line 50349. Heading surveys alone do not count as a full review.
 Check collapsed or otherwise
 unavailable content separately. Line numbers apply to this snapshot only;

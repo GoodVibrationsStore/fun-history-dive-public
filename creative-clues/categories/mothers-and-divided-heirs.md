@@ -63,6 +63,37 @@ in these passages. [Matthew 5:5 and Psalm 37:11](https://www.biblegateway.com/pa
 are separate texts about the meek inheriting the earth or land; they do not
 identify these sisters as a hidden lineage.
 
+## Joseph in the pit
+
+The chat's list of biblical comparisons describes Joseph as buried in the
+ground. In [Genesis 37:18–36](https://www.biblegateway.com/passage/?search=Genesis%2037%3A18-36&version=NRSVUE),
+his brothers put him in an empty pit, and he is taken out and sold.
+They present his bloodied robe to Jacob, who concludes that an animal
+killed him. The text does not say Joseph was buried, and the episode does
+not establish a hidden maternal branch.
+
+The chat calls Joseph the youngest brother, but
+[Genesis 42:4, 13](https://www.biblegateway.com/passage/?search=Genesis%2042%3A4-13&version=NRSVUE)
+identifies Benjamin as the younger brother left with their father. Pharaoh
+gives Joseph an Egyptian name in
+[Genesis 41:45](https://www.biblegateway.com/passage/?search=Genesis%2041%3A45%3BGenesis%2045%3A4&version=NRSVUE);
+in 45:4 Joseph still identifies himself as Joseph. A new name does not
+demonstrate the permanent erasure of his earlier name. For his mother and
+his sons' mother, see [Rachel and Asenath](./jacob-two-sticks-and-animals.md#rachel-asenath-and-two-different-maternal-paths).
+
+## Tabitha, Dorcas, and “Talitha koum”
+
+[Acts 9:36–42](https://www.biblegateway.com/passage/?search=Acts%209%3A36-42%3BMark%205%3A41&version=NRSVUE)
+names **Tabitha**, also called **Dorcas**, as a disciple in Joppa. The
+translation's footnote gives both names the meaning “gazelle.” The story
+describes clothing she made and Peter raising her after her death; it does
+not identify her as Mary's relative or establish a maternal DNA link.
+
+The chat's “Tabitha cumi” blends that name with **“Talitha koum”** in
+Mark 5:41, where Jesus addresses a different, unnamed girl. The translation
+renders the words “Little girl, get up!” Similar-sounding words are not
+evidence that the two people are the same or related.
+
 ## Did resurrection undo the sacrifice?
 
 The chat raises a theological question: if Jesus was raised, did his death
