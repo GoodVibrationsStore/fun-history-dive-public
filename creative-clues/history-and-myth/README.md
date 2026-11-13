@@ -18,6 +18,9 @@ they suggest for the book. A clue can be interesting without being solved.
 4. [Medusa, Athena, and the sisters](./medusa-athena-and-the-sisters.md):
    Ceto's daughters, Medusa's children, Athena's mother, and contrasting
    ancient accounts of images and guardians.
+5. [Ishi, Gomer, and the children](./ishi-gomer-and-the-children.md):
+   a prophetic name clue, a named daughter, and the limits of the
+   associated maternal branch.
 
 Each file keeps three things visible together:
 
